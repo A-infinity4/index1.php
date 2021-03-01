@@ -319,6 +319,7 @@ echo '<div id="flast"><center><d style="font-weight: lighter; font-size: 14px; m
 echo '" >&copy Kamla Nehru Institute of Technology, Sultanpur | Disclaimer |Powered by: Adarsh Patel|';
 echo '</d></center></div>';
 echo '</div>';
+<div>ghg</div>
 echo '</body>';
 echo '</html>';
 ?>
